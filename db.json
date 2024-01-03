@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Suresh Raina",
+      "number": 986435254,
+      "email": "suresh@gmail.com",
+      "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_7MU5hdnXGvOJp5W8jfGb3HRtS69S0hwazw&usqp=CAU",
+      "batch": "Cricketer"
+    },
+    {
+      "id": "2",
+      "name": "Ben",
+      "number": "97193841374",
+      "email": "ben@gmail.com",
+      "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ5JcxNfgIAylAd_EPKya5Vx1P7bPlMbZgySJ-S1v-s-BmOupL",
+      "batch": "Actor"
+    },
+    {
+      "id": "3",
+      "name": " M S Dhoni",
+      "number": "7232832377",
+      "email": "msd@gmail.com",
+      "imageurl": "https://images.hindustantimes.com/img/2022/06/06/1600x900/dhoni-2016-getty_1654515327472_1654515334488.jpg ",
+      "batch": "Cricketer"
+    },
+    {
+      "id": "4",
+      "name": "Jackie Chan",
+      "number": "5689745814",
+      "email": "jackie@gmail.com",
+      "imageurl": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-858141682.jpg",
+      "batch": "Actor"
+    },
+    {
+      "id": "5",
+      "name": "Virat Kohli",
+      "number": "71374374413",
+      "email": "virat@gmail.com",
+      "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-CUtz-0ktHYxImzU2HV-5wttgPYcaBQkKBw&usqp=CAU",
+      "batch": "Cricket"
+    }
+  ]
+}
